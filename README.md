@@ -1,3 +1,3 @@
-# Flink 相关代码库 
+# Flink plugin
 aliyun flink sql vvp user define connector
 aliyun flink sql udf 
