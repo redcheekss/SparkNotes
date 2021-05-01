@@ -4,7 +4,7 @@ aliyun flink sql vvp user define connector
 
 由于阿里云 全托管模式 sql开发 连接器未提供RDS PostgreSQL TYPE。 所以需要自定义连接器，并上传至阿里云。
 
-此连接器为JDBC连接器。可连接RDS MYSQL ,RDS PostgreSQL等数据源。
+此连接器为JDBC连接器。可连接RDS MYSQL ,RDS PostgreSQL等数据源。(此代码参考至开源社区flink 源码,其他自定义连接器如redis,es等同样可参考开源社区代码)
 
 > 阿里云全托管Flink管理自定义connector:https://help.aliyun.com/document_detail/193520.html?spm=a2c4g.11174283.6.672.7a5773d5COHO0c
 
