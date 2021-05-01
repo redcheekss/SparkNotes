@@ -1,4 +1,4 @@
-# Flink plugin
+# Flink Connector
 
 aliyun flink sql vvp user define connector
 
