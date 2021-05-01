@@ -8,7 +8,7 @@
 
 
     <groupId>org.example</groupId>
-    <artifactId>youda-flink-connector-jdbc</artifactId>
+    <artifactId>flink-connector-jdbc</artifactId>
     <name>Flink-Connectors-JDBC</name>
     <version>1.12-SNAPSHOT</version>
     <packaging>jar</packaging>
